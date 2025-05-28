@@ -6,6 +6,8 @@
 🚀 Always curious to explore new technologies and creative ideas  
 </p>
 
+
+
 ### 💼 Projects I'm Proud Of
 
 - 👗 [**StyleSync**](https://github.com/AdvaLevine/StyleSync)  
@@ -27,6 +29,8 @@
   > A full checkers game in C, including game logic, move validation, and basic AI.
 
 > 📂 [See all my work on GitHub »](https://github.com/AdvaLevine)
+
+
 
 
 ### 🛠️ Tech I’m Working With
