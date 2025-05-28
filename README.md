@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Adva</h1>
 
 <p align="center">
-I'm a Computer Science student at the Academic College of Tel Aviv-Yaffa, Israel.<br>
+🎓 Computer Science student at the Academic College of Tel Aviv-Yaffa, Israel.<br>
 🌱 Passionate about learning, building, and sharing tech projects.<br>
 🚀 Always curious to explore new technologies and creative ideas.
 </p>
