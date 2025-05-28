@@ -28,7 +28,7 @@
 - 🔴 [**AI Checkers (in C)**](https://github.com/AdvaLevine/AI-Checkers-in-C)  
   A full checkers game in C, including game logic, move validation, and basic AI.
 
-📂 [**See all my work on GitHub »**](https://github.com/AdvaLevine)
+📂 [**See all my work on GitHub »**](https://github.com/AdvaLevine?tab=repositories)
 
 &nbsp;
 
