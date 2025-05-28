@@ -1,12 +1,10 @@
 <h1 align="center">Hi there! 👋 I'm Adva</h1>
 
 <p align="center">
-🎓 Programming student at the Academic College of Tel Aviv-Yaffa, Israel  
+🎓 I'm a Computer Science student at the Academic College of Tel Aviv-Yaffa, Israel  
 🌱 Passionate about learning, building, and sharing tech projects  
 🚀 Always curious to explore new technologies and creative ideas  
 </p>
-
----
 
 ### 💼 Projects I'm Proud Of
 
@@ -15,23 +13,22 @@
   > 🧠 Recommends outfits based on your calendar, weather, and wardrobe.
 
 - 🧮 [**Spreadsheet Manager System (Client/Server)**](https://github.com/AdvaLevine/Spreadsheet_Manager_System_Client_Server)  
-  A full client-server spreadsheet system built in Java, supporting real-time updates and version tracking.
+ > A full client-server spreadsheet system built in Java, supporting real-time updates and version tracking.
 
 - 🍄 [**Super Duper Mario**](https://github.com/AdvaLevine/SuperDuperMario)  
-  A custom Mario clone built with JavaFX, including custom maps and animations.
+ > A custom Mario clone built with JavaFX, including custom maps and animations.
 
 - 🚗 [**Garage System in C#**](https://github.com/AdvaLevine/Garage-in-CSharp)  
-  A console-based vehicle management system that handles garage operations using C# and OOP principles.
+ > A console-based vehicle management system that handles garage operations using C# and OOP principles.
 
 - 🧠 [**AI Tetris (C++)**](https://github.com/AdvaLevine/AI-Tetris-in-CPP)  
-  A Tetris-playing AI implemented in C++ with scoring logic and shape recognition.
+> A Tetris-playing AI implemented in C++ with scoring logic and shape recognition.
 
 - 🔴 [**AI Checkers (in C)**](https://github.com/AdvaLevine/AI-Checkers-in-C)  
-  A full checkers game in C, including game logic, move validation, and basic AI.
+ > A full checkers game in C, including game logic, move validation, and basic AI.
 
 > 📂 [See all my work on GitHub »](https://github.com/AdvaLevine)
 
----
 
 ### 🛠️ Tech I’m Working With
 
@@ -50,7 +47,6 @@
 - GitHub: [Adva Levine](https://github.com/AdvaLevine)
 - LinkedIn: [Adva Levine](https://www.linkedin.com/in/advalevine)
   
----
 
 <p align="center">Thanks for stopping by! 💜</p>
 
